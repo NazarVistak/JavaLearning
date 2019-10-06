@@ -14,3 +14,11 @@ repositories {
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
+
+repositories{
+    mavenCentral()
+}
+
+dependencies{
+implementation("org.testng:testng:7.0.0")
+}

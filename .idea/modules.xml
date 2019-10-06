@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleid.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleid.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleid.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleid.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleid.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleid.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jetbrains.gradleid.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jetbrains.gradleid.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jetbrains.gradleid.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jetbrains.gradleid.test.iml" />
     </modules>
   </component>
 </project>

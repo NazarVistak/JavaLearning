@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="gradleid.main" target="1.8" />
       <module name="gradleid.test" target="1.8" />
+      <module name="jetbrains.gradleid.main" target="1.8" />
+      <module name="jetbrains.gradleid.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
