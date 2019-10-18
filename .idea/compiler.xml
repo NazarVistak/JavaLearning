@@ -2,8 +2,16 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="addressbooktests.main" target="1.8" />
+      <module name="addressbooktests.test" target="1.8" />
+      <module name="addressbooktestsartifact.main" target="1.8" />
+      <module name="addressbooktestsartifact.test" target="1.8" />
+      <module name="Addressbookwebtests.main" target="1.8" />
+      <module name="Addressbookwebtests.test" target="1.8" />
       <module name="gradleid.main" target="1.8" />
       <module name="gradleid.test" target="1.8" />
+      <module name="jetbrains.addressbooktests.main" target="1.8" />
+      <module name="jetbrains.addressbooktests.test" target="1.8" />
       <module name="jetbrains.gradleid.main" target="1.8" />
       <module name="jetbrains.gradleid.test" target="1.8" />
     </bytecodeTargetLevel>

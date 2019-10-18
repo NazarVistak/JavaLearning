@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Addressbookwebtests.iml" filepath="$PROJECT_DIR$/.idea/modules/Addressbookwebtests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Addressbookwebtests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Addressbookwebtests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Addressbookwebtests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Addressbookwebtests.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Git Repositories.addressbooktests.iml" filepath="$PROJECT_DIR$/.idea/modules/Git Repositories.addressbooktests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbooktests.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbooktests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbooktests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbooktests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbooktests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbooktests.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleid.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleid.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleid.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleid.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleid.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleid.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jetbrains.addressbooktests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jetbrains.addressbooktests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jetbrains.addressbooktests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jetbrains.addressbooktests.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jetbrains.gradleid.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jetbrains.gradleid.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jetbrains.gradleid.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jetbrains.gradleid.test.iml" />
     </modules>

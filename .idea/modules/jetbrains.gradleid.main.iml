@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="gradleid:main" external.linked.project.path="$MODULE_DIR$/../../gradleid" external.root.project.path="$MODULE_DIR$/../../gradleid" external.system.id="GRADLE" external.system.module.group="jetbrains" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../addressbooktestsartifact" rootProjectPath="$MODULE_DIR$/../../addressbooktestsartifact" />
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../gradleid/build/classes/java/main" />
     <exclude-output />
